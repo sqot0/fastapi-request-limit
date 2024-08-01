@@ -1,1 +1,1 @@
-from main import request_limit
+from .main import request_limit
