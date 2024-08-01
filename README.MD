@@ -15,7 +15,7 @@ Here's how you can use the `request-limit` decorator in a FastAPI application:~
 ```python
 from fastapi import FastAPI, Request
 from fastapi.responses import JSONResponse
-from fastapi-request-limit import request_limit
+from fastapi_request_limit import request_limit
 
 app = FastAPI()
 
